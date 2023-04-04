@@ -1,0 +1,62 @@
+[33mcommit 87534846a0c853fcabc66fead6c0aa4ec53c084f[m[33m ([m[1;36mHEAD -> [m[1;32mkkoda[m[33m)[m
+Author: kkoda <lkc1337@naver.com>
+Date:   Tue Apr 4 17:35:27 2023 +0900
+
+    kkoda block
+
+[33mcommit dbb26a7c3dd7b25c64cd9d0102aa85123ded3b19[m[33m ([m[1;32mmain[m[33m)[m
+Merge: 8d7f8ab cae61f3
+Author: kkoda <lkc1337@naver.com>
+Date:   Tue Apr 4 17:28:10 2023 +0900
+
+    Merge branch 'main' of https://github.com/aufe1995/new_project
+
+[33mcommit 8d7f8ab9ea8c4c938b958f9fab74674facdfe2fd[m
+Author: kkoda <lkc1337@naver.com>
+Date:   Tue Apr 4 17:25:39 2023 +0900
+
+    create kyw
+
+[33mcommit cae61f3dc61a8806bf2b0018c39335553e2a9df3[m
+Merge: ffabe0a a7016bb
+Author: H <S@naver.com>
+Date:   Tue Apr 4 17:25:23 2023 +0900
+
+    Merge branch 'main' of https://github.com/aufe1995/new_project
+
+[33mcommit ffabe0aa60ad863fcd4c1593146cdcff3e5b6e9e[m
+Author: H <S@naver.com>
+Date:   Tue Apr 4 17:25:04 2023 +0900
+
+    BM
+
+[33mcommit a7016bbaf78e23de5652c617b70b8a3cba21e311[m
+Merge: d6f56be 534abb6
+Author: supersett <nolang3748@naver.com>
+Date:   Tue Apr 4 17:24:15 2023 +0900
+
+    Merge branch 'main' of https://github.com/aufe1995/new_project
+
+[33mcommit d6f56beccc362f7eaad0dfcc41a42e5ef2999dec[m
+Author: supersett <nolang3748@naver.com>
+Date:   Tue Apr 4 17:23:46 2023 +0900
+
+    docs: make NiceGoldBlock.txt
+
+[33mcommit 534abb62dde3f81f2ce3a019db5a2c060a8321ab[m
+Author: H <S@naver.com>
+Date:   Tue Apr 4 17:12:36 2023 +0900
+
+    change contents
+
+[33mcommit cde35a20e32add849eb3bcb795d7833c3a6ce13d[m
+Author: H <S@naver.com>
+Date:   Tue Apr 4 17:09:20 2023 +0900
+
+    change contents
+
+[33mcommit af1a1546b0135d3cc9a5b2b642d7cb21adeec0b0[m
+Author: leader <aufe1995@gmail.com>
+Date:   Tue Apr 4 16:59:22 2023 +0900
+
+    create notice.txt
